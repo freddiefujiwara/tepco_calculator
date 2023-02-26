@@ -1,3 +1,4 @@
+"""Test module for tepco_calculator.py"""
 from decimal import Decimal
 import tepco_calculator
 
