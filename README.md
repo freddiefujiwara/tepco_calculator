@@ -2,6 +2,10 @@
 
 This is a calculator for Tepco electricity charges in Japan.
 
+This program's base implementation is written by Bing.com chat function
+
+![9ASjm3uSV04WFD_e_AdobeExpress](https://user-images.githubusercontent.com/16923/221387721-22d44513-5f24-419b-880b-a119148416d3.gif)
+
 ## Usage
 
 1. Install Python3.
@@ -32,3 +36,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
